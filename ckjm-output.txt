@@ -1,0 +1,76 @@
+Key to Abbreviations:	WMC	Weighted Methods per Class						
+	DIT	Depth of Inheritance Tree						
+	NOC	Number Of Children						
+	CBO	Coupling Between Objects						
+	RFC	Response For a Class						
+	LOCM	Lack Of Cohesion in Methods						
+	Ca	Afferent Coupling						
+	NPM	Number of Public Methods						
+Class Name	WMC	DIT	NOC	CBO	RFC	LOCM	Ca	NPM
+CSCharacterLoader	19	1	0	2	30	0	1	17
+CSHighScoresList	10	1	0	1	23	0	4	6
+CSCharSharkcut	2	0	0	9	31	0	1	2
+CSOptionsData	10	1	0	2	13	21	7	9
+CSGameScreen$GameStatus	4	2	0	0	7	4	1	2
+CSCharRainbowSlushTrout	1	0	0	6	26	0	1	1
+CSGameHUD	4	1	0	10	40	0	5	4
+CSHighScoreRecord	3	1	0	0	10	0	2	3
+CSPauseScreen	8	0	0	8	45	0	1	7
+CSPowerUpEffect	9	1	3	1	11	6	8	9
+CSCharCornShark$Idle	2	0	0	3	11	0	1	2
+CSFishingBoat	4	0	0	7	14	0	2	4
+CSFishLevelData$FishLevelInfo	1	1	0	0	2	0	1	1
+CSHighScoreEntryScreen	5	0	0	15	56	0	1	5
+CSCharBananacuda	2	0	0	6	27	0	1	1
+CSAIHunt	5	0	0	5	32	0	3	4
+CSCharPeebeeJellyfish	3	0	0	8	37	3	1	3
+CSCharPearahna	1	0	0	6	26	0	1	1
+CSAISineSwimLeft	2	0	0	3	18	0	3	2
+CSSkillLevelData	10	1	0	1	13	15	3	9
+CSCharWhalemelon	2	0	0	6	27	0	1	1
+CSDebugDisplay	6	1	0	9	48	1	1	3
+CSPowerUpGlitter	4	0	0	3	22	0	2	4
+CSCharCornShark$SwimRight	2	0	0	3	14	0	1	2
+CSStripedRacerEffect	3	0	0	2	8	0	2	3
+CSPowerUpGlitterParticle	4	1	0	1	12	0	1	4
+CSCharCrackerFishy	2	0	0	6	27	0	1	1
+CSPowerUpBase	11	0	4	7	32	49	5	11
+CSGameWorldController	15	1	0	33	98	13	26	8
+CSCharCornShark$SwimLeft	2	0	0	3	14	0	1	2
+CSAIBite	4	0	0	2	17	0	2	4
+CSFishBase	41	0	13	19	118	662	31	39
+CSGameScreen	10	0	0	11	68	0	14	9
+CSHighScoresScreen	8	0	0	7	38	16	2	8
+CSGameTimer	14	0	0	1	29	23	6	13
+CSFishLevelData	4	1	0	2	12	0	13	4
+CSAISwimLeft	2	0	0	3	21	1	1	2
+Particle	4	1	0	0	10	0	1	3
+CSShellFishEffect	3	0	0	2	4	3	2	3
+Bait	7	0	0	13	56	1	1	7
+CSTextGrowEffect	17	0	0	3	36	76	8	17
+CSAISineSwimRight	2	0	0	3	20	0	3	2
+CSGameOverScreen	6	0	0	10	44	0	1	6
+CSStateBehavior	4	1	12	2	14	2	30	4
+CSPhatFishEffect	3	0	0	2	4	3	3	3
+CSCharSherbetCrab	4	0	0	8	37	2	1	3
+CSFishConstants	0	1	0	0	0	0	1	0
+CSCharCornShark	13	0	0	24	89	46	23	12
+CSMainMenuScreen	7	0	0	11	42	5	1	6
+CSCharCornShark$SwimDown	2	0	0	3	14	0	1	2
+CSWaveAnimation	3	0	0	3	17	3	4	3
+CSAIFlee	5	0	0	5	27	8	1	2
+CSAISwimRight	2	0	0	3	23	1	1	2
+CSDataModel	20	0	0	12	68	164	38	16
+CSCharHamburgerheadShark	2	0	0	6	27	0	1	1
+CSCharPhatFish	2	0	0	16	33	0	1	2
+CSCharStripedRacer	2	0	0	13	34	0	1	2
+CSCharChipsenFish	2	0	0	6	27	0	1	1
+CornShark	2	1	0	5	8	1	0	2
+CSKeyCommands	1	1	0	0	2	0	0	1
+CSCharSeaChicken	9	0	0	5	38	22	1	8
+CSParticleManager	5	1	0	1	15	0	3	4
+CSCharCornShark$SwimUp	2	0	0	3	12	0	1	2
+CSOptionsScreen	8	0	0	10	53	14	1	7
+CSCharShellFish	2	0	0	13	34	0	1	2
+CSSkillLevel	5	2	0	0	8	6	9	3
+Class Name	WMC	DIT	NOC	CBO	RFC	LOCM	Ca	NPM
